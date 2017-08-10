@@ -1,0 +1,31 @@
+{
+ "sections": [
+  {
+   "id": "d31bbf9f-c7d0-4268-e106-072530b2f733",
+   "title": "Section 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Section-1-d31b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "5cb399b1-cf00-4867-2b8a-251bced704fc",
+   "title": "Section 2",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Section-2-5cb3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
